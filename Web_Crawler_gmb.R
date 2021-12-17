@@ -172,6 +172,7 @@ nrow(otpt)
 write.csv(otpt, file = "Crawl-Output-file2018.csv", append = TRUE)
 
 
-
+#Idea to optimize it further. 
+#Give this program a user input about years and then tell it to crawl data accoridng to the year input by the user. 
 
 
